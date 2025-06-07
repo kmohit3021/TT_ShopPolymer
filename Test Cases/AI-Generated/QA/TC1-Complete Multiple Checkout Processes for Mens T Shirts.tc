@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TestCaseEntity>
-    <comment></comment>
+    <comment />
     <customField>
         <flow>
             <id>ec32a701-5f5f-4a00-acf6-ba0044c0cc3c</id>
@@ -9,7 +8,7 @@
     <description>Navigate to the home page, select mens t-shirts, add items to the cart, and complete the checkout process multiple times. Verify the completion of each order.</description>
     <name>TC1-Complete Multiple Checkout Processes for Mens T Shirts</name>
     <origin>TRUETEST</origin>
-    <tag></tag>
+    <tag>smoke</tag>
     <testCaseGuid>eb0fb9a8-d9f4-4d89-9fb5-b49a0c7cd72d</testCaseGuid>
     <variable>
         <defaultValue>''</defaultValue>
