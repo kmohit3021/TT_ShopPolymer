@@ -1,0 +1,106 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Complete Multiple Checkout Processes for Mens T Shirts,"Navigate to the home page, select mens t-shirts, add items to the cart, and complete the checkout process multiple times. Verify the completion of each order.","Step 1: Navigate to /
+Step 2: Click on link mensTshirts
+Step 3: Click on link product
+Step 4: Select option with input value from select quantitySize (size)
+Step 5: Select option with input value from select quantitySize (quantity)
+Step 6: Click on button addToCart
+Step 7: Click on link viewCart
+Step 8: Click on link checkout
+Step 9: Click on input email
+Step 10: Click on input email
+Step 11: Click on input accountPhone
+Step 12: Click on input shipAddress
+Step 13: Click on input shipCity
+Step 14: Click on input shipState
+Step 15: Click on input shipZip
+Step 16: Select option with input value from select shipCountry
+Step 17: Click on input cardholderName
+Step 18: Click on shopMdDecorator cardNumber
+Step 19: Click on input cardNumber
+Step 20: Enter input value in input cardNumber
+Step 21: Select option with input value from select expiryMonth
+Step 22: Select option with input value from select ccExpYear
+Step 23: Click on input cvv
+Step 24: Enter input value in input cvv
+Step 25: Click on input placeOrder
+Step 26: Click on p demoCheckoutComplete
+Step 27: Click on p demoCheckoutComplete
+Step 28: Click on p demoCheckoutComplete
+Step 29: Click on link finish
+Step 30: Click on link mensTshirts
+Step 31: Click on link mensTshirts2
+Step 32: Click on link product
+Step 33: Select option with input value from select quantitySize (size)
+Step 34: Select option with input value from select quantitySize (quantity)
+Step 35: Click on button addToCart
+Step 36: Click on link viewCart
+Step 37: Click on link checkout
+Step 38: Click on input email
+Step 39: Click on input accountPhone
+Step 40: Click on input shipAddress
+Step 41: Click on input shipCity
+Step 42: Click on div cityLabel
+Step 43: Click on input shipCity
+Step 44: Click on div stateProvinceZip
+Step 45: Click on input shipState
+Step 46: Click on input shipZip
+Step 47: Select option with input value from select shipCountry
+Step 48: Click on input cardholderName
+Step 49: Click on input cardNumber
+Step 50: Enter input value in input cardNumber
+Step 51: Select option with input value from select expiryMonth
+Step 52: Select option with input value from select ccExpYear
+Step 53: Click on input cvv
+Step 54: Enter input value in input cvv
+Step 55: Click on input placeOrder
+Step 56: Click on link finish
+Step 57: Click on link mensTshirts
+Step 58: Click on link product
+Step 59: Select option with input value from select quantitySize (size)
+Step 60: Select option with input value from select quantitySize (quantity)
+Step 61: Click on button addToCart
+Step 62: Click on link viewCart
+Step 63: Click on link checkout
+Step 64: Click on input email
+Step 65: Click on input accountPhone
+Step 66: Click on input shipAddress
+Step 67: Click on input shipCity
+Step 68: Click on input shipState
+Step 69: Click on input shipZip
+Step 70: Select option with input value from select shipCountry
+Step 71: Click on input cardholderName
+Step 72: Click on div cardNumber
+Step 73: Click on input cardNumber
+Step 74: Enter input value in input cardNumber
+Step 75: Select option with input value from select expiryMonth
+Step 76: Select option with input value from select ccExpYear
+Step 77: Click on input cvv
+Step 78: Enter input value in input cvv
+Step 79: Click on input placeOrder
+Step 80: Click on link finish
+Step 81: Click on link mensTshirts
+Step 82: Click on link product
+Step 83: Select option with input value from select quantitySize (size)
+Step 84: Select option with input value from select quantitySize (quantity)
+Step 85: Click on button addToCart
+Step 86: Click on link viewCart
+Step 87: Click on link checkout
+Step 88: Click on input email
+Step 89: Click on input accountPhone
+Step 90: Click on input shipAddress
+Step 91: Click on input shipCity
+Step 92: Click on input shipState
+Step 93: Click on input shipZip
+Step 94: Select option with input value from select shipCountry
+Step 95: Click on input cardholderName
+Step 96: Click on input cardNumber
+Step 97: Enter input value in input cardNumber
+Step 98: Select option with input value from select expiryMonth
+Step 99: Select option with input value from select ccExpYear
+Step 100: Click on input cvv
+Step 101: Enter input value in input cvv
+Step 102: Click on input placeOrder
+Step 103: Click on link finish -> Navigate to page ''
+Step 104: Take full page screenshot as checkpoint
+",High,NEW

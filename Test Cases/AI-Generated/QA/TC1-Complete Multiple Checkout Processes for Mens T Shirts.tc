@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>ec32a701-5f5f-4a00-acf6-ba0044c0cc3c</id>
+        </flow>
+    </customField>
+    <description>Navigate to the home page, select mens t-shirts, add items to the cart, and complete the checkout process multiple times. Verify the completion of each order.</description>
+    <name>TC1-Complete Multiple Checkout Processes for Mens T Shirts</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>eb0fb9a8-d9f4-4d89-9fb5-b49a0c7cd72d</testCaseGuid>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>19109af2-8024-444c-bdfe-98cf41e09c40</id>
+        <masked>false</masked>
+        <name>input_cardNumber</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>dc152648-dbd5-417a-a0b9-ca2d87268046</id>
+        <masked>false</masked>
+        <name>input_cardNumber_1</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>6192ac62-4c01-4fa8-be60-1dfeadd054ad</id>
+        <masked>false</masked>
+        <name>input_cardNumber_2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>954933b8-e8f8-454c-a4d2-daa660f42324</id>
+        <masked>false</masked>
+        <name>input_cardNumber_3</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>40890841-9e62-4f6a-99c4-b282e94723de</id>
+        <masked>false</masked>
+        <name>input_cvv</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>492327dc-ecfa-4b83-8abd-6b30112ffcfd</id>
+        <masked>false</masked>
+        <name>input_cvv_1</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>7cf13e2e-a963-4e07-8de5-fda08f72eee6</id>
+        <masked>false</masked>
+        <name>input_cvv_2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>f8d20384-8e0d-4e49-b141-e63342171e39</id>
+        <masked>false</masked>
+        <name>input_cvv_3</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>f20a682b-4f07-4ec8-9527-2be0b1af9d68</id>
+        <masked>false</masked>
+        <name>select_ccExpYear</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>9837ae64-3886-4569-ac19-f110190078c1</id>
+        <masked>false</masked>
+        <name>select_ccExpYear_1</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>7811f3f2-4adf-472f-aec6-67e20f4b37c8</id>
+        <masked>false</masked>
+        <name>select_ccExpYear_2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>852878b7-4d5d-437e-8b20-d33312c8d4d0</id>
+        <masked>false</masked>
+        <name>select_ccExpYear_3</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>c5759cce-0936-4c1e-b5df-ed464919c55a</id>
+        <masked>false</masked>
+        <name>select_expiryMonth</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>abcbdffb-6ee6-42da-b848-ef44736c1793</id>
+        <masked>false</masked>
+        <name>select_expiryMonth_1</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>1eb2abbc-f182-4bf7-9068-446a7a34422e</id>
+        <masked>false</masked>
+        <name>select_expiryMonth_2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>b87747db-0892-4c62-b997-7710f59e31d9</id>
+        <masked>false</masked>
+        <name>select_expiryMonth_3</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>ba2b81e8-96a0-4a29-857e-33790f83c8dc</id>
+        <masked>false</masked>
+        <name>select_quantitySize</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>d61565dc-1140-4773-a502-199b49c9946a</id>
+        <masked>false</masked>
+        <name>select_quantitySize_1</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>caa486e0-8738-41a5-9389-1d63ce35b186</id>
+        <masked>false</masked>
+        <name>select_quantitySize_2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>e0fd2229-899b-4727-8069-406ee2918369</id>
+        <masked>false</masked>
+        <name>select_quantitySize_3</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>448664ed-9a4a-4434-999d-6a46173f3c87</id>
+        <masked>false</masked>
+        <name>select_quantitySize_4</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>b88d5f99-2850-46fb-a234-b2dedeeac055</id>
+        <masked>false</masked>
+        <name>select_quantitySize_5</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>dc5aacda-b3eb-477a-9990-0b8ee7044bf4</id>
+        <masked>false</masked>
+        <name>select_quantitySize_6</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>d9e9ba85-7b67-4ad8-833a-97ee0764dee5</id>
+        <masked>false</masked>
+        <name>select_quantitySize_7</name>
+    </variable>
+    <variable>
+        <defaultValue>'Size'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>1b7e7e8c-2d55-4dfd-8771-ccff6242aaac</id>
+        <masked>false</masked>
+        <name>select_quantitySize_internalLabel</name>
+    </variable>
+    <variable>
+        <defaultValue>'Quantity'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>036176ba-3fda-492c-99e0-c88384b88398</id>
+        <masked>false</masked>
+        <name>select_quantitySize_internalLabel_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Size'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>bba01101-c717-4ee3-a5e4-4d0e1c93f229</id>
+        <masked>false</masked>
+        <name>select_quantitySize_internalLabel_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'Quantity'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8a196df5-e932-418a-ae0c-5ac9fb2c3bf9</id>
+        <masked>false</masked>
+        <name>select_quantitySize_internalLabel_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'Size'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>4b44eaac-21ec-43d8-9b9c-ffc65380a22a</id>
+        <masked>false</masked>
+        <name>select_quantitySize_internalLabel_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'Quantity'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>04e71b06-3dc9-4386-85f4-b310dd37dc24</id>
+        <masked>false</masked>
+        <name>select_quantitySize_internalLabel_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'Size'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>26250e25-d095-4bba-ab71-daafa4716407</id>
+        <masked>false</masked>
+        <name>select_quantitySize_internalLabel_6</name>
+    </variable>
+    <variable>
+        <defaultValue>'Quantity'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>d10bdfd9-ef9b-40a6-81a2-88fe657433d2</id>
+        <masked>false</masked>
+        <name>select_quantitySize_internalLabel_7</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>bac2fed6-6e62-46c5-96a6-8dbb9960f440</id>
+        <masked>false</masked>
+        <name>select_shipCountry</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>2dd21705-037e-45d5-bc21-ca5bb3c57942</id>
+        <masked>false</masked>
+        <name>select_shipCountry_1</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>e96d0302-9fdf-4aef-8fd0-b969e85c8182</id>
+        <masked>false</masked>
+        <name>select_shipCountry_2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>6dbd7c41-f91f-4cc8-922b-c86b97804bc6</id>
+        <masked>false</masked>
+        <name>select_shipCountry_3</name>
+    </variable>
+</TestCaseEntity>
